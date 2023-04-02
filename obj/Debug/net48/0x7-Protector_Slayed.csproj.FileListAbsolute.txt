@@ -1,0 +1,21 @@
+C:\Users\Zer\Downloads\New folder (3)\bin\Debug\net48\0x7 Protector GUI.exe.config
+C:\Users\Zer\Downloads\New folder (3)\bin\Debug\net48\0x7 Protector GUI.exe
+C:\Users\Zer\Downloads\New folder (3)\bin\Debug\net48\0x7 Protector GUI.pdb
+C:\Users\Zer\Downloads\New folder (3)\bin\Debug\net48\Core.dll
+C:\Users\Zer\Downloads\New folder (3)\bin\Debug\net48\dnlib.dll
+C:\Users\Zer\Downloads\New folder (3)\bin\Debug\net48\Siticone.UI.dll
+C:\Users\Zer\Downloads\New folder (3)\bin\Debug\net48\VMUtils.dll
+C:\Users\Zer\Downloads\New folder (3)\bin\Debug\net48\Hardening.dll
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\0x7-Protector_Slayed.csproj.AssemblyReference.cache
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\0x7-Protector_Slayed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\_0x7_Protector_GUI.Finished.resources
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\_0x7_Protector_GUI.GUI.resources
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\_0x7_Protector_GUI.Help.resources
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\_0x7_Protector_GUI.Login.resources
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\_0x7_Protector_GUI.NewUpdate.resources
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\0x7-Protector_Slayed.csproj.GenerateResource.cache
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\0x7-Protector_Slayed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\0x7-Protector_Slayed.csproj.CoreCompileInputs.cache
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\0x7-Protector_Slayed.csproj.CopyComplete
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\0x7 Protector GUI.exe
+C:\Users\Zer\Downloads\New folder (3)\obj\Debug\net48\0x7 Protector GUI.pdb

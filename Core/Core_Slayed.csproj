@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Core</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>7.3</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="dnlib">
+      <HintPath>..\..\0x7_Cracked\0x7\dnlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="Hardening">
+      <HintPath>..\..\0x7_Cracked\0x7\Hardening.dll</HintPath>
+    </Reference>
+    <Reference Include="VMUtils">
+      <HintPath>..\..\0x7_Cracked\0x7\VMUtils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

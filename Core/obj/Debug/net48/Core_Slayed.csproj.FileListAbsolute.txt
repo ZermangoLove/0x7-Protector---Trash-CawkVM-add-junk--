@@ -1,0 +1,5 @@
+C:\Users\Zer\Downloads\New folder (3)\Core\obj\Debug\net48\Core_Slayed.csproj.AssemblyReference.cache
+C:\Users\Zer\Downloads\New folder (3)\Core\obj\Debug\net48\Core.Properties.Resources.resources
+C:\Users\Zer\Downloads\New folder (3)\Core\obj\Debug\net48\Core_Slayed.csproj.GenerateResource.cache
+C:\Users\Zer\Downloads\New folder (3)\Core\obj\Debug\net48\Core_Slayed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zer\Downloads\New folder (3)\Core\obj\Debug\net48\Core_Slayed.csproj.CoreCompileInputs.cache
